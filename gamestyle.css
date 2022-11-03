@@ -10,5 +10,6 @@ body
 {
    user-select: none;
    background-image: url('.\\bg.png');
+   min-height:840px;
    z-index:-1;
 }
