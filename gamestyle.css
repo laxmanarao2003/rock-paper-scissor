@@ -1,0 +1,16 @@
+img
+{
+   width: 170px;
+}
+#img1,#img2,#img3
+{
+   width:100px;
+}
+body
+{
+   user-select: none;
+   background-image: url('.\\bg.png');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   z-index:-1;
+}
