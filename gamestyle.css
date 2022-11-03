@@ -10,6 +10,5 @@ body
 {
    user-select: none;
    background-image: url('.\\bg.png');
-   background-attachment: scroll;
    z-index:-1;
 }
